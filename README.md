@@ -1,8 +1,6 @@
 Hi there, I'm Emre 👋
 
-<p align="center">
-  <b>Software Engineering Student | Backend Development Enthusiast | Erasmus in Poland - Mechanical engand AI 🇵🇱</b>
-</p>
+<b>Software Engineering Student | Backend Development Enthusiast | Erasmus in Poland - Mechanical engand AI 🇵🇱</b>
 
 
 ### 📂 Featured Projects (coming soon)
