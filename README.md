@@ -1,9 +1,11 @@
-Hi there, I'm Emre 👋
+hi there, it's Emre 👋
 
-<b>Software Engineering Student | Backend Development Enthusiast | Erasmus in Poland - Mechanical engand AI 🇵🇱</b>
+- software eng student in istanbul nisantasi uni 
+- java/backend 
+- erasmus in poland - mechanical eng and AI
 
 
-### 📂 Featured Projects (coming soon)
+### Featured Projects (coming soon)
 
 - `Student-DB-Manager` – JDBC + PostgreSQL CRUD app  
 - `PassVisionAI` – football pass analysis using computer vision (WIP)  
