@@ -4,9 +4,3 @@ hi there, it's Emre 👋
 - java/backend 
 - erasmus in poland - mechanical eng and AI
 
-
-### Featured Projects (coming soon)
-
-- `Student-DB-Manager` – JDBC + PostgreSQL CRUD app  
-- `PassVisionAI` – football pass analysis using computer vision (WIP)  
-
